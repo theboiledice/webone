@@ -9,6 +9,7 @@
 		<VersionSuffix>-pre</VersionSuffix> <!--<VersionSuffix>-pre</VersionSuffix>-->
 		<PackageVersion>$(Version)$(VersionSuffix)</PackageVersion>
 		<Company>World</Company>
+		<RuntimeIdentifier>linux-x64</RuntimeIdentifier>
 		<Product>WebOne HTTP Proxy Server</Product>
 		<Description>HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.</Description>
 		<RepositoryType>GitHub</RepositoryType>
